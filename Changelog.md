@@ -7,7 +7,7 @@
  + Added Credits per Hour/Min in Statistic Window/Tab <br>
  + AutoShoot locked NPC's <br>
  + Exclude NPC's from AutoLock <br>
- - Pandrom's NPCLogic due to bug's <br>
+ - Pendramon's NPCLogic due to bug's <br>
  + Toshinou NPCLogic <br>
  - Removed Pause Bot Checkbox <br>
   <br>
@@ -20,7 +20,7 @@
 </b> <br>
  + Updated Variable`s <br>
  + Added new Box <br>
- + Pandrom's NPCLogic <br>
+ + Pendramon's NPCLogic <br>
  - Toshinou NPCLogic <br>
  - Removed my old Circlling Method <br>
  + Added Gagong's Circling Method <br>
