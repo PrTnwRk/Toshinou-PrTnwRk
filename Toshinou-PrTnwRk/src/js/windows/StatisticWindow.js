@@ -70,7 +70,7 @@ class StatisticWindow {
             },
             {
                 name: 'speed',
-                labelText: 'Speed: ',
+                labelText: 'Uri Speed: ',
                 spanText: '0.00 /min.',
                 appendTo: this.botStatisticWindow
             },
